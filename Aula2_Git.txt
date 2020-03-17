@@ -1,0 +1,6 @@
+O que é GitHub?
+
+É uma plataforma de de hospedagem/controle de versões e/ou alterações de projetos.
+
+Serve para compartilhamento de projetos, podendo ser um compartilhamento pessoal ou privado. Sendo utilizado para armazenar códigos.
+Outra utilidade é para comparilhar a edição de projetos.
